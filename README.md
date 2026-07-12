@@ -21,7 +21,7 @@ const camilo: Developer = {
   location:  "📍 Bogotá D.C., Colombia",
   role:      "Infrastructure & Storage Analyst | Full Stack Developer",
   company:   "🏦 BBVA Colombia",
-  education: "🎓 Systems Engineering — U. Cooperativa de Colombia (10th semester)",
+  education: "🎓 Systems Engineering — U. Cooperativa de Colombia",
  
   currentWork: [
     "⚙️  Server management & configuration: Windows, Linux, Solaris",
