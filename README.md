@@ -20,7 +20,7 @@ const camilo: Developer = {
   name:      "Camilo Andrés Gómez",
   location:  "📍 Bogotá D.C., Colombia",
   role:      "Infrastructure & Storage Analyst | Full Stack Developer",
-  company:   "🏦 BBVA Colombia",
+  company:   "🏦 Searching",
   education: "🎓 Systems Engineering — U. Cooperativa de Colombia",
  
   currentWork: [
